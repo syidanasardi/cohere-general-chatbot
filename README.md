@@ -1,1 +1,1 @@
-# cohrere-chatbot
+# cohere-chatbot
